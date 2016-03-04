@@ -2,6 +2,10 @@
 
 
 
+
+
+![alt text](http://www.googledrive.com/host/0B9W7L1j7MW21ZFd3NkZpeUYzTGM "ipython Notebook")
+
 These are the things we will look at, and the steps to do that:
 
 1. Let's peek at the different aspects of the data
