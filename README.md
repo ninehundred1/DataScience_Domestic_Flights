@@ -3,8 +3,9 @@
 
 
 
+ipython Notebook:
 
-![alt text](http://www.googledrive.com/host/0B9W7L1j7MW21ZFd3NkZpeUYzTGM "ipython Notebook")
+http://www.googledrive.com/host/0B9W7L1j7MW21ZFd3NkZpeUYzTGM 
 
 These are the things we will look at, and the steps to do that:
 
